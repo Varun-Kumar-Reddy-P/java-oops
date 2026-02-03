@@ -7,6 +7,7 @@ I created these programs while learning OOPS in Java.
 ## Concepts Covered
 - Class and Object
 - Constructors (Default and Parameterized)
+- Encapsulation
 
 ## Purpose
 The purpose of this repository is to understand how
