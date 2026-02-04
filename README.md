@@ -1,17 +1,21 @@
 # Java OOPS Concepts
 
 This repository contains Java programs that demonstrate
-core Object-Oriented Programming (OOPS) concepts.
-I created these programs while learning OOPS in Java.
+core Object-Oriented Programming (OOPS) concepts in Java.
+I created these programs while learning OOPS step by step.
 
 ## Concepts Covered
 - Class and Object
 - Constructors (Default and Parameterized)
 - Encapsulation
+- Inheritance
+  - Single Inheritance
+  - Multilevel Inheritance
 
 ## Purpose
 The purpose of this repository is to understand how
-OOPS concepts are implemented in Java through simple examples.
+OOPS concepts are implemented in Java using simple,
+beginner-friendly examples.
 
 ## How to Run
 1. Clone the repository
