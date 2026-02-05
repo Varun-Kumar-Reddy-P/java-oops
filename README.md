@@ -11,6 +11,9 @@ I created these programs while learning OOPS step by step.
 - Inheritance
   - Single Inheritance
   - Multilevel Inheritance
+- Polymorphism
+  - Method Overloading
+  - Method Overriding
 
 ## Purpose
 The purpose of this repository is to understand how
